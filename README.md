@@ -1,5 +1,7 @@
-# LCB42 HTML repository (LastCodeBender42.github.io):
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body, html {
   height: 100%;
@@ -8,7 +10,7 @@ body, html {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("network.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -58,6 +60,9 @@ body, html {
 </html>
 
 
+
+
+# LCB42 HTML repository (LastCodeBender42.github.io):
 
 This repository stores a group of HTML files that I use on my personal website . I prefer the convenience of using a hosted website for showcasing my experience. However, there are file size restrictions that can be annoying. I work around that limitation by storing HTML files on my .github.io repo and then open the file within an iframe on a hosted web page. For the purposes of developing a personal website this seems time and cost effective.
 
