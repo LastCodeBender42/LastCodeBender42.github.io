@@ -4,8 +4,10 @@ This repository stores a group of HTML files that I use on my personal website .
 
 As an example, I would be unable to host the network visualization below directly on my hosted website. 
 <br></br>
+<br></br>
 <img src="network.png" alt="Example Image">
-
+<br></br>
+<br></br>
 However, I can use an iframe that includes `src=https://LastCodeBender42.github.io/d3graph2.html` and now it works like a charm. See the network viz on my personal website <a href="https://analysisandinformatics.org/d2graph2-html">here</a>.
 
 
