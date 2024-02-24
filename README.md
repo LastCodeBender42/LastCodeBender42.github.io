@@ -8,7 +8,7 @@ As an example, I would be unable to host this interactive network visualization 
 <img src="network.png" alt="Example Image">
 <br></br>
 <br></br>
-However, I can use an iframe that includes `src=https://LastCodeBender42.github.io/d3graph2.html` and now it works like a charm. See the interactive network viz on my personal website <a href="https://analysisandinformatics.org/d2graph2-html">here</a>.
+However, I can use an iframe that includes `src=https://LastCodeBender42.github.io/d3graph2.html` and now it works like a charm. See the interactive network viz on my personal website <a href="https://analysisandinformatics.org/d2graph2-html">here</a>. The other advantage is that my personal website becomes a comprehensive introduction to my experience, examples of my code, visualizations, and philosophy. GitHub will continue to serve as the go-to source for storing Dash and Pyside6 apps.
 
 
 Please, take a moment to review my profile at my personal website <a href="https://analysisandinformatics.org/home">Data Analysis and Bioinformatics</a>.
