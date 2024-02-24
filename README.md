@@ -5,4 +5,4 @@ This repository stores a group of HTML files that I use on my personal website .
 As an example, I would be unable to directly host the network visualization d3graph2.html directly on my hosted website. However, I can use an iframe that sources the address to this file and now it works like a charm. See the network viz <a href="https://analysisandinformatics.org/d2graph2-html">here</a>.
 
 
-https://analysisandinformatics.org/home
+Please, take a moment to review my profile at my personal website <a href="https://analysisandinformatics.org/home">Data Analysis and Bioinformatics</a>.
