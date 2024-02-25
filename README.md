@@ -1,6 +1,6 @@
 # LCB42 HTML repository (LastCodeBender42.github.io):
 
-This repository stores a group of HTML files that I use on my personal website . I prefer the convenience of using a hosted website for showcasing my experience, knowledge, and skill sets. However, there are file size restrictions that can be annoying. I work around that limitation by storing HTML files on my .github.io repo and then open the file within an iframe on a hosted web page. For the purposes of developing a personal website this seems time and cost effective.
+This repository stores a group of HTML files that I use on my personal website . I prefer the convenience of using a hosted website for showcasing my experience, knowledge, and skill sets. However, the size restrictions on the code can be annoying. I work around that limitation by storing HTML files on my .github.io repo and then open the file within an iframe on a hosted web page. For the purposes of developing a personal website this seems time and cost effective.
 
 As an example, I would be unable to host this interactive network visualization natively on my hosted website. 
 <br></br>
